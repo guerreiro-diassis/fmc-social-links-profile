@@ -42,7 +42,7 @@ h1, p, li {
 
 .profile-data .role {
     font-weight: 400;
-    margin: 20px 0 30px 0;
+    margin: 20px 0 30px 0s;
 }
 
 .social-medias li {
@@ -61,8 +61,9 @@ h1, p, li {
     margin: 12px 0 12px 43px;
 }
 
-.social-medias a:hover {
+.social-medias a:hover,
+.social-medias a:focus-visible {
     background-color: var(--green);
     color: #000000;
-    transition: 0.3s ease-in-out;
+    transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
 }
