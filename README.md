@@ -26,13 +26,13 @@ O desenvolvedor deve conseguir:
 
 ### Captura de tela
 
-![](./screenshot.jpg)
+![](assets/images/captura-de-tela.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- URL da solução: [https://github.com/guerreiro-diassis/fmc-social-links-profile]
+- URL do site: [https://guerreiro-diassis.github.io/fmc-social-links-profile/]
 
 ## Meu processo
 
