@@ -1,5 +1,5 @@
 body {
-    /* background-color: var(--grey-900); */
+    background-color: var(--grey-900);
     color: #ffffff;
     display: flex;
     align-items: center;
