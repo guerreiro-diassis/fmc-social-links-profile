@@ -60,3 +60,9 @@ h1, p, li {
     line-height: 45px;
     margin: 12px 0 12px 43px;
 }
+
+.social-medias a:hover {
+    background-color: var(--green);
+    color: #000000;
+    transition: 0.3s ease-in-out;
+}
